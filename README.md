@@ -1,4 +1,4 @@
-# cSigns (Code Signs) makes a human language note shorter and searchable
+# cSigns (Code Signs) make a human language note shorter and searchable
 
 #### !> (An example)
 Java<br>

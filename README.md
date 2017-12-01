@@ -1,4 +1,4 @@
-# cSigns (Code Signs) make a human language note shorter and searchable
+# cSigns (Code Signs) make human language shorter and searchable
 
 #### !> (An example)
 Java<br>
@@ -21,7 +21,7 @@ Java<br>
     
 &nbsp;&nbsp;&nbsp;&nbsp;>>> https://www.tutorialspoint.com/java/java_overview.htm
 
-#### - (List of Code Signs)
+#### - (List of cSigns)
 
 ```
 :>			definition
@@ -33,12 +33,12 @@ $>			alternative
 ->			disadvantage
 ?>			problem
 ==			solution
-<>			unlike, oppsite
+<>			unlike, opposite
 =>			point, tip
--			list (add another dash "-" for nested level like "--)
+-			list (add another dash "-" for a nested level like "--)
 !>			example
 ~>			wrong example
 >>			link
->>>			source
-NcSigns			Numbered ones (put a number before cSigns like "1>>" or "1?>")
+>>>			reference
+nX			Numbered ones (put a number before cSigns like "1>>" or "1?>")
 ```

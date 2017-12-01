@@ -16,11 +16,11 @@ Java
 	$> C++, C#
 
 	!>
-    public class JavaSample {
-        public static main void(String[] args) {
-            System.out.println("Hello, World");
-        }
-    }
+	public class JavaSample {
+		public static main void(String[] args) {
+			System.out.println("Hello, World");
+		}
+	}
     
 	>>> https://www.tutorialspoint.com/java/java_overview.htm
 ```

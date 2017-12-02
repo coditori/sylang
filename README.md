@@ -1,6 +1,6 @@
 [English](./README.md) | [Deutsch](./README-de.md)
 
-# cSigns (Code Signs) make human language shorter and searchable
+# Sylang makes human languages equivalent, shorter, and searchable
 
 #### !> (An example)
 ```

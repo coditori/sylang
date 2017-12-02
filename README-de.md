@@ -1,6 +1,6 @@
 [English](./README.md) | [Deutsch](./README-de.md)
 
-# cSigns die menschliche Sprache kürzer und durchsuchbar machen
+# Sylang macht menschliche Sprachen äquivalent, kürzer und durchsuchbar
 
 #### !> (Ein Beispiel)
 ```

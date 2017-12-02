@@ -25,7 +25,7 @@ Java
 	>>> https://www.tutorialspoint.com/java/java_overview.htm
 ```
 
-#### - (List of cSigns)
+#### - (List)
 
 ```
 :>		definition
@@ -44,5 +44,5 @@ $>		alternative
 ~>		wrong example
 >>		link
 >>>		reference
-nX		Numbered ones (put a number before cSigns like "1>>" or "1?>")
+nX		Numbered ones (put a number before signs like "1>>" or "1?>")
 ```

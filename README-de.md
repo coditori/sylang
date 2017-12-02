@@ -25,7 +25,7 @@ Java
 	>>> https://www.tutorialspoint.com/java/java_overview.htm
 ```
 
-#### - (Liste der cSigns)
+#### - (Liste)
 ```
 :>		Definition
 @>		Autor, Schöpfer
@@ -43,5 +43,5 @@ $>		Alternative
 ~>		falsches Beispiel
 >>		Verknüpfung
 >>>		Referenz
-nX		Nummerierte (setzen Sie eine Zahl vor cSigns wie "1>>" oder "1?>")
+nX		Nummerierte (eine Zahl vor Zeichen wie "1 >>" oder "1?>" setzen)
 ```

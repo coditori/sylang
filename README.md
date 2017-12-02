@@ -5,7 +5,7 @@
 #### !> (An example)
 ```
 Java
-	an object oriented programming language
+	:> an object oriented programming language
 	#> 1995
 	@> james gosling
 	<< JVM
